@@ -31,6 +31,7 @@ public class PersonHandlerTest {
     @Test
     public void testWhileLoop() {
         // : When
+
         String actual = personHandler.whileLoop();
 
         // : Then
